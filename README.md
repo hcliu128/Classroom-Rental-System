@@ -30,8 +30,8 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/paddy41601/Database-Theories-Final.git
-    cd Database-Theories-Final
+    git clone https://github.com/hcliu128/Classroom-Rental-System.git
+    cd Classroom-Rental-System
     ```
 
 2. **Create a virtual environment**:
